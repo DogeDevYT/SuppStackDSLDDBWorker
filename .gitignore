@@ -1,0 +1,22 @@
+# --- Environment Variables ---
+.env
+
+# --- IDE / Editor Files ---
+# This folder is created by IntelliJ IDEA and contains
+# project-specific settings that shouldn't be shared.
+.idea/
+
+# --- Python ---
+# General Python cache files
+__pycache__/
+*.pyc
+
+# Virtual environment folders
+venv/
+.venv/
+env/
+.env/
+
+# --- Other ---
+# macOS specific files
+.DS_Store
