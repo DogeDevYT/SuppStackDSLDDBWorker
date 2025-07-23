@@ -31,8 +31,8 @@ pip install requests pandas supabase python-dotenv numpy
 ### Create .env File:
 In the same directory as the script, create a file named .env. This file will securely store your Supabase credentials. Add the following lines, replacing the placeholder values with your actual Supabase URL and Service Role Key:
 
-SUPABASE_URL="YOUR_SUPABASE_URL"
-SUPABASE_SERVICE_KEY="YOUR_SUPABASE_SERVICE_ROLE_KEY"
+```SUPABASE_URL="YOUR_SUPABASE_URL"```
+```SUPABASE_SERVICE_KEY="YOUR_SUPABASE_SERVICE_ROLE_KEY"```
 
 ### How to Run
 Once the setup is complete, you can run the script from your terminal with a single command:
